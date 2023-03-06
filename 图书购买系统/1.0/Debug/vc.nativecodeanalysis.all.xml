@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\86187\Desktop\软件开发与创新设计\增量开发\原版\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 book::price。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>book::{ctor}</FUNCTION>
+    <DECORATED>??0book@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>book::price</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\86187\Desktop\软件开发与创新设计\增量开发\原版\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>263</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 buyer::pay。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>buyer::{ctor}</FUNCTION>
+    <DECORATED>??0buyer@@QEAA@XZ</DECORATED>
+    <FUNCLINE>263</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>buyer::pay</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
